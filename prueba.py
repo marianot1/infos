@@ -1,5 +1,6 @@
 print("------------------------")
-print("-----------------")
+print("XXXXXXXXXXXXXXXX")
+print("XXXXXXXXXXXXXXXX")
 print("hola")
 print("hola")
 print("hola")
